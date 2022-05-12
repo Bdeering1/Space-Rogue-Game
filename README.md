@@ -1,7 +1,7 @@
 # Space Rogue Game
   
   
-High school java game created using Eclipse IDE, currently set up in boss mode (beat the final boss as many times as possible).
+Java game created using Eclipse. Currently set up in boss mode (beat the final boss as many times as possible).
   
 *Controls*  
 WASD to move  
